@@ -1,7 +1,1 @@
-name: "my-website"
-navbar:
-  title: "Welcome"
-  left:
-    - text: "Math 101"
-      href: index.html
 theme: jekyll-theme-cayman
