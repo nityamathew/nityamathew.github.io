@@ -6,7 +6,6 @@ I will upload all lectures, handouts, and assignments here so you can have acces
 If there are any important annoucements, I will also post them here. 
 
 If you have any questions, feel free to email me at nitya.mathew333@gmail.com.
-[About me](Aboutme.md)
 
 Announcements
 -----------------
